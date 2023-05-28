@@ -1,2 +1,2 @@
 # Back-end
-Este repositorio vai conter projetos e codigos basicos.
+Este repositório vai conter projetos e códigos básicos.
